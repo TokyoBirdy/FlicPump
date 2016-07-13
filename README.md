@@ -19,19 +19,19 @@ Use Flic, photon and peralstatic pump to water flower regardless of location and
 
 ### Step 2: Theory for setup
 
-![Setup](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/Theory.jpg)
+![Setup](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/Theory.jpg)
 
 ### Step 3: Set up Photon with transistor and relay
 
-![Setup](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/setup_0.jpg)
-![Setup](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/setup_1.jpg)
-![Setup](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/setup_2.jpg)
-![Setup](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/setup_3.jpg)
+![Setup](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/setup_0.jpg)
+![Setup](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/setup_1.jpg)
+![Setup](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/setup_2.jpg)
+![Setup](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/setup_3.jpg)
 
 
 ### Step 3: Flic setup
 
-![Flic setup](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/flic setup.jpg)
+![Flic setup](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/flic%20setup.jpg)
 
 PS:URL is photons cloud link with device id which could be found in particle website when logged in.
 
@@ -78,7 +78,7 @@ Run rf_receiver.ino on Arduino, you should be able to see output. Mine looks lik
 
 Charge both photon and pump with respective adapters. Click flic button, this is what you will see. 
 
-![Flic complete](/Users/ceciliahumlelu/Documents/Cecilia/FlicPump/completion.png) 
+![Flic complete](https://raw.githubusercontent.com/TokyoBirdy/FlicPump/master/completion.png) 
 
 ### Youtube video
 
